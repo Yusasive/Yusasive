@@ -38,4 +38,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusasive&show_icons=true&title_color=f099bc&text_color=bf88ce&cache_seconds=1800&locale=en&layout=compact" alt="yusasive" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusasive&show_icons=true&locale=en" alt="yusasive" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusasive&show_icons=true&title_color=74a7b4&text_color=d0acdc&bg_color=7e5b8b&locale=en" alt="yusasive" /></p>
