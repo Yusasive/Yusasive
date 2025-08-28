@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusasive" alt="yusasive" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DevOp**
 
-- 👯 I’m looking to collaborate on **Front-end role**
+- 👯 I’m looking to collaborate on **Front-end/Fullstack role**
 
-- 🤝 I’m looking for help with **Front-end Role**
+- 🤝 I’m looking for help with **Front-end/Fullstack Role**
 
-- 👨‍💻 All of my projects are available at [https://yusufabdullahi.netlify.app/](https://yusufabdullahi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yusufabdullah.netlify.app/](https://yusufabdullah.netlify.app/)
 
 - 💬 Ask me about **React, Next and TypeScript**
 
