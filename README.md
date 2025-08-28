@@ -1,6 +1,6 @@
 [![MasterHead](https://www.bypeople.com/wp-content/uploads/2018/12/sky-component-for-react-2.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Yusuf Abdullahi</h1>
-<h3 align="center">I am a committed Front-end engineer with a strong background in web development. I specialize in creating user-friendly and visually appealing interfaces. I have experience with various frameworks and libraries, such as React, React-Native, NextJs, Svelte and NodeJs, and I'm skilled in responsive design and optimizing web performance. My work focuses on enhancing the user experience and ensuring cross-browser compatibility.</h3>
+<h1 align="center">Hi 👋, I'm Yusuf Abdullahi Temidayo (Yusasive)</h1>
+<h3 align="center">A passionate Software (Fullstack) Engineer, Frontend Specialist, and Web Development Instructor from Nigeria. With hands-on experience building scalable platforms, dynamic dashboards, and performance-optimized applications using technologies like React, Next.js, TypeScript, React-Native, Flutter, Solidity, Web3.Js, Tailwind CSS, RESTful APIs, PostgreSQL, and the MEAN stack, I combine technical expertise with a strong teaching spirit.</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.prompt-hunt.workers.dev/clgbsnarl0012mg08m16nr7kc_1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusasive&label=Profile%20views&color=0e75b6&style=flat" alt="yusasive" /> </p>
