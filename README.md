@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusasive" alt="yusasive" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://droomdroom.com/wp-content/uploads/2023/11/Ai-and-Web3-615x410.jpeg" alt="yusasive" /></a>
 </p>
 
 - 🎓 BSc Mathematics (minor Computer Science), University of Ilorin, 2025, Best Innovator of the Year
